@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello friend 👋
 
 I am a postgraduate researcher at the University of Exeter. My research focuses on the impacts of Stratospheric Aerosol Injection (SAI), a method of solar climate intervention. My Ph.D. focused on stratospheric aerosols and their impacts, from assessing the UK Earth System Model at replicating a recent volcanic eruption, to evaluating the impacts of multiple SAI strategies. Currently, I am investigating the impact of a particular SAI strategy on extreme events and how it varies compared to a greenhouse gas warmed world. 
 
