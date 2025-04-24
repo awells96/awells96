@@ -5,7 +5,8 @@ I am a postgraduate research fellow at Colorado State University. My research fo
 ## 💭 My current projects
  
 - 🌦 Risk-risk analyis of extreme events under a multilatitude SAI scenario
-- 🔥 Model comparison of forest fire changes under SAI 
+- 🔥 Model comparison of forest fire changes under SAI
+- 🏥 Human health impacts under SAI
 
 ## 🚨 Publications
 
