@@ -1,4 +1,4 @@
-# Hello friend 👋
+# Hello 👋
 
 I am a postgraduate research fellow at Colorado State University. My research focuses on the impacts of Stratospheric Aerosol Injection (SAI), a method of solar climate intervention. My Ph.D. focused on stratospheric aerosols and their impacts, from assessing the UK Earth System Model at replicating a recent volcanic eruption, to evaluating the impacts of multiple SAI strategies. Currently, I am working on creating a workflow to calculate mortality due to surface ozone and PM2.5 and will be applying this to multiple SAI strategies.  
 
